@@ -1,1 +1,46 @@
-# Box-Model
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bax Model</title>
+</head>
+  <style> 
+      .firstbox {
+        background-color: cadet blue;
+        width: 200px;
+        height: 200px; 
+        border: 10px solid black;
+        padding: 20px;
+      }
+      . secondbox {
+        background-color: gold ;
+        width: 200px;
+        height: 200px;
+        border: 10px solid black;
+        border-top: 20px solid black;
+        border-bottom: 20px solid black;
+        border-left: 10px solid black;
+        border-right: 10px solid black;
+      }
+      . thirdbox {
+        background-color: indianred;
+        width: 200px;
+        height: 200px;
+        border: 10px solid black;
+        margin-left: 40px;
+        }
+        p{ 
+          margin:0;
+        }
+   </style>
+   </head>
+ <body>
+      <div class="firstbbox">
+        <p>Lorem ipsum dolor sit amet, consectetur adispiscing elit. Aliquam at apien porttitor urna elementum lacinia. In id magna pulvinar, ultricies lorem id, vehicula elit. Aliquam eu luctus nisl, vitae pellentesque magna. Phasellus dolor metus, laoreet ac convallis sit amet, efficitur sed dolor.
+        </p>
+      </div>
+</body>
+
+</html>
