@@ -28,7 +28,7 @@
             margin-left: 40px;
         }
         p {
-            margin: 0;
+            margin: -10px;
         }
     </style>
 </head>
